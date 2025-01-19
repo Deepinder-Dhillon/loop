@@ -26,13 +26,18 @@ Loop is a Next.js-based platform for sharing project ideas and finding teammates
 
 Feel free to explore the codebase to understand the implementation and design decisions made throughout the project.
 
-## 🖼️ Screenshots
+## 🖼️ Figma Screenshots
 
-### 🏠 Homepage
-![Homepage Screenshot](https://github.com/user-attachments/assets/83ac2450-7733-4f46-a464-ff1bca550f0f)
+<div style="text-align: center;">
+    <h2>Figma Screenshots</h2>
+    <img width="1035" alt="Home" src="https://github.com/user-attachments/assets/1804a318-f3ab-4048-949c-f8a7ab586dd2" />
+    <img width="878" alt="Idea" src="https://github.com/user-attachments/assets/c39cc3fb-b27a-4209-8352-f76e6b45c9ea" />
+    <img width="798" alt="Post" src="https://github.com/user-attachments/assets/1e2d0add-a12f-4b56-8c56-69e7040d8326" />
+    <img width="713" alt="Connections" src="https://github.com/user-attachments/assets/aa665f0c-8db0-4a7a-ae31-f1442769086d" />
+    <img width="874" alt="Create Post" src="https://github.com/user-attachments/assets/8827b477-600f-47a3-bcac-d2f55c983121" />
+</div>
 
-### 📄 Project Details
-![Project Details Screenshot](https://github.com/user-attachments/assets/e4a36681-14dd-4035-a167-d9566fb3a3e1)
+
 
 ## 📜 License
 
