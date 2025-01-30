@@ -35,7 +35,9 @@ Feel free to explore the codebase to understand the implementation and design de
     <img width="798" alt="Post" src="https://github.com/user-attachments/assets/1e2d0add-a12f-4b56-8c56-69e7040d8326" />
     <img width="713" alt="Connections" src="https://github.com/user-attachments/assets/aa665f0c-8db0-4a7a-ae31-f1442769086d" />
     <img width="874" alt="Create Post" src="https://github.com/user-attachments/assets/8827b477-600f-47a3-bcac-d2f55c983121" />
+    <img width="874" alt="Create Post" src="https://github.com/user-attachments/assets/3a83a9c7-f19e-4c37-a93c-1c9de04a6468" />
 </div>
+
 
 
 
