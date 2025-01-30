@@ -30,10 +30,10 @@ Feel free to explore the codebase to understand the implementation and design de
 
 <div style="text-align: center;">
     <h2>Figma Screenshots</h2>
-    <img width="1035" alt="Home" src="https://github.com/user-attachments/assets/1804a318-f3ab-4048-949c-f8a7ab586dd2" />
-    <img width="878" alt="Idea" src="https://github.com/user-attachments/assets/c39cc3fb-b27a-4209-8352-f76e6b45c9ea" />
-    <img width="798" alt="Post" src="https://github.com/user-attachments/assets/1e2d0add-a12f-4b56-8c56-69e7040d8326" />
-    <img width="713" alt="Connections" src="https://github.com/user-attachments/assets/aa665f0c-8db0-4a7a-ae31-f1442769086d" />
+    <img width="847" alt="Home" src="https://github.com/user-attachments/assets/1804a318-f3ab-4048-949c-f8a7ab586dd2" />
+    <img width="874" alt="Idea" src="https://github.com/user-attachments/assets/c39cc3fb-b27a-4209-8352-f76e6b45c9ea" />
+    <img width="874" alt="Post" src="https://github.com/user-attachments/assets/1e2d0add-a12f-4b56-8c56-69e7040d8326" />
+    <img width="874" alt="Connections" src="https://github.com/user-attachments/assets/aa665f0c-8db0-4a7a-ae31-f1442769086d" />
     <img width="874" alt="Create Post" src="https://github.com/user-attachments/assets/8827b477-600f-47a3-bcac-d2f55c983121" />
     <img width="874" alt="Create Post" src="https://github.com/user-attachments/assets/3a83a9c7-f19e-4c37-a93c-1c9de04a6468" />
 </div>
